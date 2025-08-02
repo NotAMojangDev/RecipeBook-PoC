@@ -1,0 +1,8 @@
+name: RBPOC
+version: '0.1-DEV'
+main: dev.namd.rbpoc.RBPOCPlugin
+api-version: '1.21'
+prefix: RBPOC
+load: STARTUP
+authors: [ NotAMojangDev ]
+description: RecipeBook PoC
